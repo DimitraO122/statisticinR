@@ -1,1 +1,2 @@
 # statisticinR
+**Dimitra O**
