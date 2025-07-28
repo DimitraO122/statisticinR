@@ -1,2 +1,2 @@
 # statisticinR
-**Dimitra O**
+**Example of README.md**
