@@ -1,3 +1,3 @@
-# statisticinR
-#Example of README.md
+
+# Example of README.md
 **Created by Dimitra Orfanou
