@@ -1,3 +1,3 @@
 
 # Example of README.md
-** Created by Dimitra Orfanou **
+**Created by Dimitra Orfanou**
